@@ -1,0 +1,91 @@
+
+.header {
+	background-color: #F6F6F6;
+	border-bottom: 1px solid #CACACA; 
+}
+.caja1{
+	background-color: #B3B3B3;
+}
+.caja2 {
+	background-color: #F1F1F1;
+}
+.cuerpo{
+	background-color: #FFFFFF;
+}
+.texto {
+	margin-top: 15px;
+}
+.formulario {
+	margin-top: 25px;
+}
+.espacios {
+	margin-top: 10px;
+}
+.espacioF {
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+.margen {
+	border: 5px double #d0d0d0;
+	border-radius: 10px;
+	margin: 55px 15px 20px 15px;
+}
+.mar {
+	margin-left: 10px;
+}
+.barra {
+	border-right: 1px solid #898989;
+	background-color: #F6F6F6;
+	position: fixed;
+	height: 100%;
+}
+.noticias {
+	margin: 10px;
+	border: 1px solid #cacaca;
+	border-radius: 3px;
+	padding: 0;
+}
+.fondologin {
+	background-color: #F6F6F6;
+}
+.logeo {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 300px;
+	margin-left: -150px;
+	height: 400px;
+	margin-top: -200px;
+}
+.username { 
+	margin: 11px;
+}
+.datos {
+	border: 2px solid #d0d0d0;
+	border-radius: 10px;	
+}
+.ins {
+	margin-left: 10px;
+	margin-right: 7px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0;
+}
+.ins2 {
+	margin-left: 7px;
+	margin-right: 7px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0;
+}
+.submit {
+	margin-top: 15px;
+	width: 50px;
+	height: 35px;
+}
+.boton1 {
+	margin-top: 47px;
+}
+.boton2 {
+	margin-top: 15px;
+}
